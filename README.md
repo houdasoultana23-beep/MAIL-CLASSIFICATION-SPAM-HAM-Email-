@@ -53,8 +53,4 @@ Notre modèle résout efficacement les faux positifs générés par les filtres 
 ```bash
 git clone [https://github.com/houdasoultana23-beep/MAIL_CLASSIFICATION-SPAM---HAM-Email-.git](https://github.com/houdasoultana23-beep/MAIL_CLASSIFICATION-SPAM---HAM-Email-.git)
 cd MAIL_CLASSIFICATION-SPAM---HAM-Email
-2. Installer les dépendances nécessaires
-pip install streamlit sentence-transformers scikit-learn numpy
-3. Exécuter l'application Streamlit
-streamlit run app_embedding.py
 
